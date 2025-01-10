@@ -7,12 +7,13 @@
 ## 界面预览
 
 ### 初始界面
-![初始界面](./images/preview1.png)
-上传图片前的界面展示，支持拖拽或点击上传 PNG、JPG 格式图片。
+
+<img width="627" alt="Snipaste_2025-01-10_17-23-12" src="https://github.com/user-attachments/assets/23c2125d-eed2-4e7d-b74d-e8e427eeabcc" />
 
 ### 压缩效果展示
-![压缩效果](./images/preview2.png)
-可以看到原图(5.08MB)通过压缩后大小降至 0.11MB，同时保持了良好的图片质量。
+
+<img width="627" alt="Snipaste_2025-01-10_17-23-12" src="https://github.com/user-attachments/assets/2b339b69-2ca4-493e-97b1-9342f720af7d" />
+
 
 ## 功能特点
 
