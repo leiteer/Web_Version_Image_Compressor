@@ -4,6 +4,22 @@
 
 🌐 [在线预览](https://你的用户名.github.io/image-compressor)
 
+## 在线预览
+访问 [图片压缩工具](https://leiteer.github.io/Web_Version_Image_Compressor) 体验在线服务。
+
+## 本地开发
+```bash
+# 克隆项目
+git clone https://github.com/leiteer/Web_Version_Image_Compressor.git
+
+# 进入项目目录
+cd Web_Version_Image_Compressor
+
+# 使用任意静态服务器运行
+# 例如使用 Python 的简单服务器
+python -m http.server 8080
+```
+
 ## 界面预览
 
 ### 初始界面
